@@ -4,7 +4,7 @@
   "description": "FED KIIT",
   "scripts": {
     "start": "parcel index.html",
-    "build": " npx parcel sbuild index.html",
+    "build": " npx parcel build index.html",
     "test": "jest"
   },
   "repository": {
