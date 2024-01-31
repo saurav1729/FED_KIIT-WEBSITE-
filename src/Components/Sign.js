@@ -1,5 +1,5 @@
 import SignL from "./SignL";
-import SignMedium from "./Signmd";
+import SignMedium from "./SignMd";
 
 const Sign = () => {
   return (
