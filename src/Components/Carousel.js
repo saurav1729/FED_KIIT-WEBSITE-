@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { images } from "../utils/images";
-import { GrNext } from "react-icons/gr";
+
 import { IoIosArrowDropleft } from "react-icons/io";
 import { IoIosArrowDropright } from "react-icons/io";
 import { useEffect } from "react";
